@@ -1,9 +1,9 @@
 CLIENTS MICROSERVICE
 -----------------------------------------------------------------------------------
 
-Microservicio que recupera información de clientes. 
+Microservice that retrieves data about clients. 
 
-Aplicación desarrollada con Java 8, Spring Boot 2, Gradle y Lombok.
+Built with Java 8, Spring Boot 2, Gradle and Lombok.
 
 -----------------------------------------------------------------------------------
 
